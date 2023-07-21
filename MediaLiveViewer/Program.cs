@@ -14,7 +14,7 @@ namespace MediaLiveViewer
 	static class Program
 	{
         private static readonly Guid IntegrationId = new Guid("14FA2FED-87D2-44E2-88B6-23A21551BD0D");
-        private const string IntegrationName = "Media Live Viewer";
+        private const string IntegrationName = "DeepNeuronic Integration Platform";
         private const string Version = "1.0";
         private const string ManufacturerName = "Sample Manufacturer";
 
